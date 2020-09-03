@@ -1,0 +1,169 @@
+    <div class="box mar_top"><img src="images/index_img/banner02.jpg" width="1000" height="100" /></div>
+    <!--旅游、企业信息-->
+    <div class="box">
+        <div class="left">
+            <div class="sub_box">
+                <div class="title">
+                    <ul>
+                    <li><span><a href="#">旅游</a></span><a href="#">more</a></li>
+                    </ul>
+                </div>
+                <div class="pho_info">
+                    <div class="pho_info_left"><a href="#"><img src="images/tour_img/phoad03.jpg" width="100" height="100" /></a></div>
+                    <div class="pho_info_right">
+                        <ul>
+                            <li><span><a href="#">博鳌玉带滩</a></span></li>
+                            <li>博鳌玉带滩是一条自然形成的地形狭长的沙滩半岛，位于海南博鳌，外侧南海烟波浩淼一望无际，内侧万泉河、沙美内海湖光山色，内外相映，构成了一幅奇异的景观。玉带滩全长8.5公里.....</li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="pho_info">
+                    <div class="pho_info_left"><a href="#"><img src="images/tour_img/phoad04.jpg" width="100" height="100" /></a></div>
+                    <div class="pho_info_right">
+                        <ul>
+                            <li><span><a href="#">博鳌亚洲论坛</a></span></li>
+                            <li>博鳌镇是海南省琼海市的一个镇。面积约31平方公里。位于琼海市东部海滨，万泉河入海口。东临南海、南与万宁市交界，西与琼海市朝阳乡,是国际会议组织——博鳌亚洲论坛永久性会址所在地.....</li>
+                        </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+             <div class="sub_box">
+                <div class="title">
+                    <ul>
+                    <li><span><a target="_blank" href="news_list.html">企业</a></span><a target="_blank" href="#">more</a></li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+                <div class="news_list" >
+                    <ul>
+                        <li><span><a href="#">40家上市房企上月海外融资162亿元 环比增近3倍</a></span>2016-04-08</li>
+                        <li><span><a href="#">民营银行成今年资本“风口” 上市公司充当主力军</a></span>2016-04-08</li>
+                        <li><span><a href="#">强化一线监管 2016年A股上市公司收2038份监管类函件</a></span>2016-04-08</li>
+                        <li><span><a href="#">复合共鸣装置面市 福合天韵以“互联网+”模式推广</a></span>2016-04-08</li>
+                        <li><span><a href="#">CrazyPanda疯狂熊猫运动相机上市 正面挑战Gopro</a></span>2016-04-08</li>
+                        <li><span><a href="#">媒体关注中国上市公司“炒房”：主业不景气 卖房减亏</a></span>2016-04-08</li>
+                        <li><span><a href="#">A股600多家上市公司修改章程 或让中小股东沦为“局外人”</a></span>2016-04-08</li>
+                        <li><span><a href="#">南京一上市公司为“保壳” 拟卖北京2套学区房“扭亏”</a></span>2016-04-08</li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="box mar_top"><img src="images/index_img/banner06.jpg" width="1000" height="100"/></div>
+    <!--家居、人才信息-->
+     <div class="box">
+        <div class="left">
+            <div class="sub_box">
+                <div class="title">
+                    <ul>
+                    <li><span><a href="#">家居</a></span><a href="#">more</a></li>
+                    </ul>
+                </div>
+                <div class="pho_info">
+                    <div class="pho_info_left"><a href="#"><img src="images/homeFurnishing_img/phoad05.jpg" width="100" height="100" /></a></div>
+                    <div class="pho_info_right">
+                    <ul>
+                        <li><span><a href="#">豪兴家具城</a></span></li>
+                        <li>豪兴家具城成立于2004年，位于海南省琼海市金海北路（海桂学校斜对面），距琼海火车站仅5分钟车程，西邻东线高速出入口，环市公交8路、11路可直达商场门口。.....</li>
+                    </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="pho_info">
+                    <div class="pho_info_left"><a href="#"><img src="images/homeFurnishing_img/phoad06.jpg" width="100" height="100" /></a></div>
+                    <div class="pho_info_right">
+                    <ul>
+                        <li><span><a href="#">美乐乐琼海家具体验馆</a></span></li>
+                        <li>【美乐乐琼海家具体验馆】使用O2O销售模式,为消费者提供欧式,美式,法式,中式等风格床,沙发,衣柜,书桌,餐桌,整体衣柜【线下到店真实体验,线上下单轻松订购】服务.....</li>
+                    </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+            <div class="sub_box">
+                <div class="title">
+                    <ul>
+                    <li><span><a target="_blank" href="news_list.html">人才</a></span><a target="_blank" href="#">more</a></li>
+                    </ul>
+                </div>
+                <div class="news_list" >
+                        <ul>
+                        <li><span><a href="#">不想变成人人都恨的HR？人力资源管理中的误区你得避开</a></span>2016-04-08</li>
+                        <li><span><a href="#">投诉？调解？仲裁？哪个能解决你的劳动纠纷？</a></span>2016-04-08</li>
+                        <li><span><a href="#">中国第一本以“一带一路”为主题的外文期刊《丝路瞭望》创刊</a></span>2016-04-08</li>
+                        <li><span><a href="#">HR读书｜智能主义：未来商业与社会的新生态</a></span>2016-04-08</li>
+                        <li><span><a href="#">松下幸之助：选人的十大标准和70%的用人智慧</a></span>2016-04-08</li>
+                        <li><span><a href="#">HR读书｜没有带不好的员工：10个让员工从低效到高能的督导模板</a></span>2016-04-08</li>
+                        <li><span><a href="#">别用年会衡量企业文化，这六大误区妨碍企业经营</a></span>2016-04-08</li>
+                        <li><span><a href="#">科技入侵，Slave or Master? (非HR技术宅慎入！）</a></span>2016-04-08</li>
+                        </ul>
+                        <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+     <div class="box mar_top"><img src="images/index_img/banner04.jpg" width="1000" height="100"/></div>
+    <!--美食、酒店信息-->
+     <div class="box">
+        <div class="left">
+          <div class="sub_box">
+            <div class="title">
+                <ul>
+                <li><span><a href="#">美食</a></span><a href="#">more</a></li>
+                </ul>
+            </div>
+            <div class="pho_info">
+                <div class="pho_info_left"><a href="#"><img src="images/food-img/phoad07.jpg" width="100" height="100" /></a></div>
+                <div class="pho_info_right">
+                <ul>
+                    <li><span><a href="#">东山羊</a></span></li>
+                    <li>海南东山羊，由于主产于海南万宁的东山岭，所以被当地人简称为“东山羊”，东山羊以优质的羊肉而闻名岛内外，它与加积鸭、和乐蟹、文昌鸡被人们并称为海南四大名菜.....</li>
+                </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="pho_info">
+                <div class="pho_info_left"><a href="#"><img src="images/food-img/phoad08.jpg" width="100" height="100" /></a></div>
+                <div class="pho_info_right">
+                <ul>
+                    <li><span><a href="#">图片相关标题</a></span></li>
+                    <li>和乐蟹京东爆款商品劲爆价,省钱是王道,全民High翻天,新鲜精品,快速送达!和乐蟹购"快"购"鲜"上京东,品类齐全,闪电发货+火速到达,让您尝"鲜"!和乐蟹产于万宁市一带海中的和乐蟹，是海南四大名菜之一.....</li>
+                </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
+            </div>
+        </div>
+        <div class="right">
+           <div class="sub_box">
+            <div class="title">
+                <ul>
+                <li><span><a target="_blank" href="news_list.html">酒店</a></span><a target="_blank" href="#">more</a></li>
+                </ul>
+            </div>
+            <div class="news_list" >
+                    <ul>
+                    <li><span><a href="#">市工商局发布流通领域酒店用卫生日用品质量抽检情况</a></span>2016-04-08</li>
+                    <li><span><a href="#" >成本太高 中型酒店纷纷退出年夜饭市场</a></span>2016-04-08</li>
+                    <li><span><a href="#" >中青旅山水积极布局华中：山水S酒店武汉项目成功签约</a><a href="#"></a></span>2016-04-08</li>
+                    <li><span><a href="#">《武林外传》十年 同福客栈破败引怀旧</a><a href="#"></a></span>2016-04-08</li>
+                    <li><span><a href="#">开豪车出入高档酒店住别墅区 &ldquo;90后&rdquo;新婚男子被定位绑架</a><a href="#"></a></span>2016-04-08</li>
+                    <li><span><a href="#">旅游时酒店停电无紧急照明 女童摔坏四颗牙旅行社要赔</a><a href="#"></a></span>2016-04-08</li>
+                    <li><span><a href="#">日本酒店推“哥斯拉”主题客房 可与怪兽对视</a></span>2016-04-08</li>
+                    <li><span><a href="#">五悦酒店秦乐民：庞大的景区酒店市场需要专业品牌!</a></span>2016-04-08</li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
